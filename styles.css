@@ -13,44 +13,55 @@ body {
   .err {
     color: #ffffff;
     font-family: 'Nunito Sans', sans-serif;
-    font-size: 11rem;
+    font-size: 12rem;
     position:absolute;
     left: 20%;
-    top: 8%;
+    top: 28%;
   }
 
 .far {
   color: #ffffff;
   font-family: 'Nunito Sans', sans-serif;
-  font-size: 11rem;
+  font-size: 12rem;
   position: absolute;
-  left: 42%;
-  top: 8%;
-  color: #ffffff;
+  left: 44%;
+  top: 28%;
 }
 
  .err2 {
     color: #ffffff;
     font-family: 'Nunito Sans', sans-serif;
-    font-size: 11rem;
+    font-size: 12rem;
     position:absolute;
     left: 68%;
-    top: 8%;
+    top: 28%;
   }
 
 .msg {
     text-align: center;
+    color: #ffffff;
     font-family: 'Nunito Sans', sans-serif;
     font-size: 1.6rem;
     position:absolute;
     left: 16%;
-    top: 45%;
+    top: 75%;
+    width: 75%;
+  }
+
+  .msg2 {
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.6rem;
+    position:absolute;
+    left: 16%;
+    top: 75%;
     width: 75%;
   }
 
 a {
   text-decoration: none;
-  color: white;
+  color: black;
 }
 
 a:hover {
