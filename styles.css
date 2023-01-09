@@ -20,8 +20,10 @@ body {
   }
 
 .far {
+  color: #ffffff;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 11rem;
   position: absolute;
-  font-size: 8.5rem;
   left: 42%;
   top: 15%;
   color: #ffffff;
