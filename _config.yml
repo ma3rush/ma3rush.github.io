@@ -20,8 +20,7 @@
 
 title: Mathirush Pillai
 email: mathirush@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
- Just Matty Matters
+description: Just Matty Matters
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://ma3rush.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ma3rush
